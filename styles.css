@@ -1,0 +1,108 @@
+body{
+  font-family: "Circular","Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
+  align-content: center;
+}
+
+strong {
+  font-weight: 60px;
+  border-bottom: 3px solid #FBD405;
+}
+
+h1{
+  background-color: #333333;
+  color: white;
+  text-align: center;
+  height: auto;
+  width: 100%;
+  margin: 0%;
+  display: inline-block;
+  padding: auto;
+  border: 1px solid black;
+}
+
+nav{
+  background-color: white;
+  text-align: center;
+  height: auto;
+  width: 100%;
+  display: inline-block;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+ul{
+  padding-bottom:5px;
+  padding-top: auto;
+  margin: auto;
+  text-align: center;
+}
+li {
+  background-color: #C5C5C5;
+  color: white;
+  height: 30px;
+  width: auto;
+  margin: 0;
+  display: inline-block;
+  text-align: center;
+}
+
+h3{
+  background-color: #8DFED3;
+  color: black ;
+  font-size: 20px
+  weight: 5px;
+  text-align: left;
+  height: auto;
+  width: 70%;
+  margin: 8px;
+  display: inline-block;
+  padding-top: 10px;
+  padding-right: 40px;
+  padding-left: 5px;
+  padding-bottom: 10px;
+  border: 20px;
+  border-color: white;
+  box-sizing: border-box;
+}
+
+h6{
+  background-color: #333333;
+  color: white;
+  font-size: 10px;
+  text-align: center;
+  height: auto;
+  width: 100%;
+  margin: 0%;
+  display: inline block;
+  padding: 10px 80px;
+  border: 1px solid black;
+  box-sizing: border-box;
+}
+
+main{
+  display: inline-block;
+  box-sizing: border-box;
+  color: navy;
+  width: 100%;
+  text-align: center;
+}
+
+div{
+  vertical-align: top;
+  text-align: center;
+  width: auto;
+  margin: 0 auto;
+  display: inline-block;
+}
+
+figcaption{
+  display: block;
+  background-color: #FBD405;
+  text-decoration: underline;
+}
+
+section{
+  display: inline-block;
+  box-sizing: border-box;
+  width: 100%;
+}
